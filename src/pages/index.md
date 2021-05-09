@@ -31,7 +31,7 @@ sections:
           I asked for extra hummas but he was very rude and started to attack me
           like the beast he is.
       - author:
-          name: Major Payne
+          name: 'Botch #2'
           location: 'VANCOUVER, CA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
