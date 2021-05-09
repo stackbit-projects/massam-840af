@@ -12,11 +12,7 @@ sections:
 
       We provide the best services you could ever ask for, bless your heart
       botch gang
-    actions:
-      - title: Check us out
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
   - type: featured_products_section
     section_id: best_sellers_section
     title: Services
