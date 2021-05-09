@@ -14,6 +14,7 @@ seo:
 template: product
 default_thumbnail_image: images/kind-sage.png
 default_original_image: images/festive-pine.png
+category: src/pages/category/category-dwrdsqsw2.md
 ---
 ## Lorem ipsum
 
