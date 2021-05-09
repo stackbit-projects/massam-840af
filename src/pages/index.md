@@ -18,7 +18,8 @@ sections:
     title: Services
     icon: true
     light_title: true
-    featured_products: []
+    featured_products:
+      - src/pages/products/product-1nknhxoja.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
