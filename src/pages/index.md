@@ -34,8 +34,8 @@ sections:
           name: 'Botch #2'
           location: 'VANCOUVER, CA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          We have been advising him to make the saj shawerma but he has not done
+          until today. I am fed up and I was a refund
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
