@@ -10,8 +10,8 @@ sections:
       # **General Trading**
 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      We provide the best services you could ever ask for, bless your heart
+      botch gang
     actions:
       - title: See all items
         url: /store
