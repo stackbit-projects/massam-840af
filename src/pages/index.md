@@ -13,7 +13,7 @@ sections:
       We provide the best services you could ever ask for, bless your heart
       botch gang
     actions:
-      - title: See all items
+      - title: Check us out
         url: /store
         arrow: true
         style: primary
