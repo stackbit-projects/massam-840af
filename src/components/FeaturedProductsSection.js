@@ -9,6 +9,9 @@ export default class FeaturedProductsSection extends React.Component {
         let featured_products = _.get(section, 'featured_products', null);
         return (
             <section className="content__row"  data-id={_.get(section, 'section_id', null)}>
+                    <Link className="product-grid__item-link" to={withPrefix(_.get(product_page, 'url', null))}>
+                        <Picture {...this.props} image={_.get(product_page, 'frontmatter.default_thumbnail_image', null)} alt={_.get(product_page, 'frontmatter.title', null)} cssClass={'product-grid__item-image'} />
+                    </Link>
                     <h2 className={'content__row-title' + (_.get(section, 'light_title', null) ? (' content__row-title--light') : '')}>
                         {_.get(section, 'icon', null) && (
                         <svg width="29" height="25" viewBox="0 0 29 25" xmlns="http://www.w3.org/2000/svg">
