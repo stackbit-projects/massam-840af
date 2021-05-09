@@ -28,9 +28,8 @@ sections:
           name: 'Botch #1'
           location: 'Vancouver, CA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          I asked for extra hummas but he was very rude and started to attack me
+          like the beast he is.
       - author:
           name: Major Payne
           location: 'VANCOUVER, CA'
