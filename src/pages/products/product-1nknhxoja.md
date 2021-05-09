@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: product
+default_thumbnail_image: images/kind-sage.png
 ---
 ## Lorem ipsum
 
