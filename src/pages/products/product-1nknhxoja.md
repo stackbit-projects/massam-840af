@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: product
 default_thumbnail_image: images/kind-sage.png
+default_original_image: images/festive-pine.png
 ---
 ## Lorem ipsum
 
